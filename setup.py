@@ -48,7 +48,7 @@ setup(
     #packages=['hh', 'pyinvoice', 'wx', 'pymysql'],
     #package_dir = {'pyinvoice' : '/usr/lib/python3.6/site-packages/PyInvoice-0.1.0-py3.6.egg', 'wx' : '/usr/lib/python3.6/site-packages/wx', 'pymysql' : '/usr/lib/python3.6/site-packages/pymysql'},
     #scripts=['bin/stowe-towels.py','bin/wash-towels.py'],
-    url='github.com/HH95/Open-Source-Python-POS-and-Accounting-Software/',
+    url='https://github.com/GoodbyeKittyy/Python-IDE-Software',
     license='LICENSE.txt',
     description='Open Source POS, Accouting and ERP System for small to medium business needs',
     long_description=open('README.txt').read(),
