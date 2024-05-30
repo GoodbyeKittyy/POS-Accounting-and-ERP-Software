@@ -20,9 +20,14 @@ Accounting
 7. Create Income Statement
 8. All accounts mentioned above can be viewed for any date range
 
+</br>
+
 ERP
 
 1. Access rights and permissions of fellow users can be controlled through their login accounts
+
+</br>
+
 
 Future Plans
 1. Add Depreciation and Inventory Valuation
