@@ -7,6 +7,8 @@ Point of Sale
 4. Sale with cash (full payment), cheque (credit sale), purchase and return both sales and purchase.
 5. Update cash collected/paid against credit sales/purchase with cheque numbers.
 
+</br>
+
 Accounting
 
 1. Make automated General Journal Entries with each sale, purchase and returns of both. These entries are made in Sale, Purchase, Cash, Accounts Recievable and Accounts Payable of Individual Customers.
